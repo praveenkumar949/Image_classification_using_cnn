@@ -41,6 +41,9 @@ The CNN model consists of:
   - Flatten layer.
   - Dense layer with 128 neurons and ReLU activation.
   - Output layer with softmax activation for multi-class classification.
+    
+![Screenshot 2024-11-27 114819](https://github.com/user-attachments/assets/d818676f-be47-4e92-a196-503cda6ab571)  
+
 
 ---
 
